@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "atakamizawa-gemini-research-tools-mcp": {
+      "args": [],
+      "command": "grt-mcp"
+    }
+  }
+}
